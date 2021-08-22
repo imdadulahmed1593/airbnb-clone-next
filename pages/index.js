@@ -20,7 +20,7 @@ export default function Home({ exploreData, cardsData }) {
 
       <main className="max-w-7xl mx-auto px-8 sm:px-16">
         <section className="pt-6">
-          <h2 className="text-4xl text-red-900 font-semibold pb-5">
+          <h2 className="text-4xl text-blue-500 font-semibold pb-5">
             Explore Nearby
           </h2>
           {/* pull some data from a server - API endpoints */}
